@@ -1,7 +1,1 @@
-Password Generator
-
-
-
-
-
-Tutorial for code at: https://medium.datadriveninvestor.com/how-to-build-a-simple-application-using-python-and-pysimplegui-1222505af5af
+Tutorial for code at: https://python.plainenglish.io/how-to-build-a-simple-gui-application-using-python-and-pysimplegui-56a3d82e716c
